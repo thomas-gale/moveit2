@@ -35,6 +35,10 @@ repositories:
     type: git
     url: https://github.com/OctoMap/octomap_msgs
     version: ros2
+  eigen_stl_containers:
+    type: git
+    url: https://github.com/ros/eigen_stl_containers
+    version: ros2
 
 # Dependencies with pending PRs
   object_recognition_msgs:
